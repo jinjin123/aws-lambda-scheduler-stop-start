@@ -90,14 +90,6 @@ kitchen converge lambda-scheduler-aws
 kitchen verify lambda-scheduler-aws
 ```
 
-## Authors
-
-Modules managed by [diodonfrost](https://github.com/diodonfrost)
-
-## Licence
-
-Apache 2 Licensed. See LICENSE for full details.
-
 ## Resources
 
 *   [cloudwatch schedule expressions](https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/ScheduledEvents.html)
