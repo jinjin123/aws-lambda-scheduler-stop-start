@@ -1,6 +1,6 @@
-# terraform-aws-lambda-scheduler-stop-start
+# aws-lambda-scheduler-stop-start 
 
-Terraform module which create lambda scheduler for stop and start resources on AWS
+create lambda scheduler for stop and start resources on AWS
 
 ## Features
 
